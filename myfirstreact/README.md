@@ -1,7 +1,3 @@
-Markdown
-
-# HOL-1 myfirstreact
-
 Project: myfirstreact
 
 Output:
