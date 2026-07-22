@@ -1,0 +1,14 @@
+.formatstyle {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid brown;
+  width: 400px;
+}
+
+.Name,
+.School,
+.Total,
+.Score {
+  margin: 10px 0;
+  font-size: 18px;
+}
